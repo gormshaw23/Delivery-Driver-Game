@@ -15,7 +15,7 @@ A simple game about a delivery driver picking up packages and delivering them to
 
 ## Demo
 
-[](images/MainGame.jpg)
+![](images/MainGame.jpg)
 
 
 
