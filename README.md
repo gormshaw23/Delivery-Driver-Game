@@ -16,6 +16,7 @@ A simple game about a delivery driver picking up packages and delivering them to
 ## Demo
 
 ![](images/MainGame.jpg)
+- [Play this game now!](https://play.unity.com/mg/other/delivery_driver-game_webgl_build)
 
 
 
